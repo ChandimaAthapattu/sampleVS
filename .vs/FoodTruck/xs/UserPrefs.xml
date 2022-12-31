@@ -1,14 +1,10 @@
-﻿<Properties StartupConfiguration="{75CBD43F-F25E-4E9D-8070-23C3D97B57A5}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{75CBD43F-F25E-4E9D-8070-23C3D97B57A5}|Default">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.FoodTruck PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Truck.cs">
     <Files>
-      <File FileName="Truck.cs" Line="1" Column="1" />
+      <File FileName="Truck.cs" Line="14" Column="1" />
       <File FileName="Cook.cs" />
       <File FileName="ChineseCook.cs" />
       <File FileName="IndianCook.cs" />
@@ -18,12 +14,14 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FoodTruck" expanded="True">
-            <Node name="FoodTruck" expanded="True">
-              <Node name="Truck.cs" selected="True" />
-            </Node>
+            <Node name="FoodTruck" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FoodTruck PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
