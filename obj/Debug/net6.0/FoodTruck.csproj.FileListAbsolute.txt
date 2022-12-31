@@ -1,0 +1,15 @@
+/Users/chandima_athapattu/Projects/FoodTruck/obj/Debug/net6.0/FoodTruck.csproj.AssemblyReference.cache
+/Users/chandima_athapattu/Projects/FoodTruck/obj/Debug/net6.0/FoodTruck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chandima_athapattu/Projects/FoodTruck/obj/Debug/net6.0/FoodTruck.AssemblyInfoInputs.cache
+/Users/chandima_athapattu/Projects/FoodTruck/obj/Debug/net6.0/FoodTruck.AssemblyInfo.cs
+/Users/chandima_athapattu/Projects/FoodTruck/obj/Debug/net6.0/FoodTruck.csproj.CoreCompileInputs.cache
+/Users/chandima_athapattu/Projects/FoodTruck/bin/Debug/net6.0/FoodTruck
+/Users/chandima_athapattu/Projects/FoodTruck/bin/Debug/net6.0/FoodTruck.deps.json
+/Users/chandima_athapattu/Projects/FoodTruck/bin/Debug/net6.0/FoodTruck.runtimeconfig.json
+/Users/chandima_athapattu/Projects/FoodTruck/bin/Debug/net6.0/FoodTruck.dll
+/Users/chandima_athapattu/Projects/FoodTruck/bin/Debug/net6.0/FoodTruck.pdb
+/Users/chandima_athapattu/Projects/FoodTruck/obj/Debug/net6.0/FoodTruck.dll
+/Users/chandima_athapattu/Projects/FoodTruck/obj/Debug/net6.0/refint/FoodTruck.dll
+/Users/chandima_athapattu/Projects/FoodTruck/obj/Debug/net6.0/FoodTruck.pdb
+/Users/chandima_athapattu/Projects/FoodTruck/obj/Debug/net6.0/FoodTruck.genruntimeconfig.cache
+/Users/chandima_athapattu/Projects/FoodTruck/obj/Debug/net6.0/ref/FoodTruck.dll
